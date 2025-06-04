@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Músicas',
+    'Qual é a melhor música do the weeknd?',
+    'Till Dawn (Here Comes The Sun)'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Artista',
+    'Qual é o artista que nunca mais lançou album?',
+    'Frank Ocean'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Justin bieber',
+    'Qual é a melhor música do Justin Bieber?',
+    'Roller Coaster'
 )
 
 criaCartao(
